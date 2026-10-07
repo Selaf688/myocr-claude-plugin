@@ -1,0 +1,24 @@
+{
+  "name": "myocr",
+  "displayName": "myocr.app",
+  "version": "1.0.0",
+  "description": "Bank statements that are hard to read reliably (scans, phone photos, long PDFs, many months at once) turned into transactions checked against the statement's own balances: opening + credits - debits = closing, to the cent. Ready for bank reconciliation, month-end close and audit work.",
+  "author": {
+    "name": "MAD.AI SRL",
+    "url": "https://www.myocr.app"
+  },
+  "homepage": "https://www.myocr.app/docs/mcp",
+  "license": "MIT",
+  "keywords": [
+    "bank-statement",
+    "bank-reconciliation",
+    "reconciliation",
+    "month-end-close",
+    "bookkeeping",
+    "accounting",
+    "audit",
+    "pdf",
+    "ocr",
+    "excel"
+  ]
+}
