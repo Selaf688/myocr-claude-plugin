@@ -8,6 +8,7 @@
     "url": "https://www.myocr.app"
   },
   "homepage": "https://www.myocr.app/docs/mcp",
+  "privacyPolicyUrl": "https://www.myocr.app/legal/privacy-policy",
   "license": "MIT",
   "keywords": [
     "bank-statement",
